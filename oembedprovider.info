@@ -1,4 +1,4 @@
-; $Id$
+; $Id: oembedprovider.info,v 1.1 2009/08/14 14:21:35 voxpelli Exp $
 package = oEmbed
 name = oEmbed Provider
 description = Turns you site into a oEmbed provider

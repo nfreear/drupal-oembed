@@ -1,4 +1,4 @@
-; $Id$
+; $Id: oembedcore.info,v 1.1 2009/08/14 14:21:35 voxpelli Exp $
 package = oEmbed
 name = oEmbed Core
 description = Common functionality for oEmbed client and provider
