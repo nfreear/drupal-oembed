@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: oembed.tpl.php,v 1.1 2010/02/21 12:12:35 voxpelli Exp $
 /**
  * @file
  * Default template file for oembed data
