@@ -1,5 +1,5 @@
 <?php
-// $Id: oembedcore.admin.inc,v 1.1 2010/02/21 12:15:30 voxpelli Exp $
+// $Id: oembedcore.admin.inc,v 1.2 2010/05/28 15:49:25 voxpelli Exp $
 
 /**
  * @file
